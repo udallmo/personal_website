@@ -9,7 +9,7 @@ import Projects from "./pages/Projects";
 function App() {
   return (
     <>
-    <Router>
+    <Router basename="/personal_website">
       {/* <Navbar /> */}
       <Switch>
         <Route path='/' exact component={Home}/>
