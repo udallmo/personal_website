@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personal_website/static/css/main.4424c1e3.chunk.css",
+    "main.js": "/personal_website/static/js/main.b3071b4b.chunk.js",
+    "main.js.map": "/personal_website/static/js/main.b3071b4b.chunk.js.map",
+    "runtime-main.js": "/personal_website/static/js/runtime-main.dd51ebf8.js",
+    "runtime-main.js.map": "/personal_website/static/js/runtime-main.dd51ebf8.js.map",
+    "static/js/2.51324aa2.chunk.js": "/personal_website/static/js/2.51324aa2.chunk.js",
+    "static/js/2.51324aa2.chunk.js.map": "/personal_website/static/js/2.51324aa2.chunk.js.map",
+    "index.html": "/personal_website/index.html",
+    "static/css/main.4424c1e3.chunk.css.map": "/personal_website/static/css/main.4424c1e3.chunk.css.map",
+    "static/js/2.51324aa2.chunk.js.LICENSE.txt": "/personal_website/static/js/2.51324aa2.chunk.js.LICENSE.txt",
+    "static/media/bb.f12bdf60.jpg": "/personal_website/static/media/bb.f12bdf60.jpg",
+    "static/media/cc.66b2e8ef.png": "/personal_website/static/media/cc.66b2e8ef.png",
+    "static/media/mm.89e88621.png": "/personal_website/static/media/mm.89e88621.png",
+    "static/media/no.cfda1b1b.jpg": "/personal_website/static/media/no.cfda1b1b.jpg",
+    "static/media/umo_resume.28153d8d.pdf": "/personal_website/static/media/umo_resume.28153d8d.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd51ebf8.js",
+    "static/js/2.51324aa2.chunk.js",
+    "static/css/main.4424c1e3.chunk.css",
+    "static/js/main.b3071b4b.chunk.js"
+  ]
+}
