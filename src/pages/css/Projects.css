@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Lovers+Quarrel&display=swap');
+
+
+.image {
+    float: left;    
+    /* border-radius: 25px; */
+    margin: 5vh 0vw;
+    margin-right: 2vw;
+    /* box-shadow: 5px 10px #311818; */
+    width: 50vw;
+}
+
+.textContainer {
+    padding-top: 10vh;
+    text-align: left;
+    padding-right: 5vw;
+    color: white;
+}
+
+.quote {
+    margin: auto;
+    font-family: 'Lovers Quarrel', cursive;
+    font-size: 3rem;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tags {
+    padding: 3px 7px 5px 7px;
+    background-color: rgb(81, 134, 169);
+    border-radius: 25px;
+    margin: 0 4px 0 4px;
+    color: #fff;
+    font-size: 11px;
+}
+
+.tag-container {
+    margin-top: 10px;
+}

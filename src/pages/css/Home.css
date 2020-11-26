@@ -1,0 +1,50 @@
+.title {
+    text-align: center;
+    padding: 10px 0;
+    color: #fff;
+    font-weight: 100;
+    z-index: 1;
+}
+
+.social {
+    text-align: center;
+    display: flex;
+    padding-top: 3vh;
+    justify-content: center;
+    z-index: 1;
+}
+
+.icon {
+    width: 100px;
+    text-align: center;
+    margin:0 2vw;
+    text-decoration: none;
+    z-index: 1;
+    color: #fff;
+    font-size: 1.3em;
+}
+
+.icon a{
+    color: inherit !important;
+    text-decoration: none;
+}
+
+.icon:hover { 
+    color:var(--selection-color)
+}
+
+.text {
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    font-size: 0.70em;
+    padding:2vw 5vw;
+    margin: auto;
+}
+
+.buttonContainer {
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
